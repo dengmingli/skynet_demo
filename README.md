@@ -33,12 +33,19 @@
         cservice 客户端动态文件 so
 二、新项目搭建：
         1.新建目录，命名为项目名(demo)
+        
         2.进入到该目录下，新建一个项目，命名skynet
+        
         3.把编译后的skynet根目录下的所有文件拷贝到skynet目录下
+        
         4.在demo根目录下，新建config和service两个目录
+        
         5.拷贝skynet/examples/下的config和config.path到demo/condig目录下
+        
         6.拷贝skynet/examples下的main.lua到demo/service目录下
+        
         7.打开demo/config/config.path，添加project_root，其他配置参靠见
+        
                 root = "./"
                 project_root = "../"
                 luaservice = root.."service/?.lua;"..root.."test/?.lua;"..root.."test/?/init.lua;"..project_root.."service/?.lua"
