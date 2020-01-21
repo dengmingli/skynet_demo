@@ -2,7 +2,7 @@
        
 一、安装并启动skynet：
 
-        开发环境：Linux  centos
+        开发环境：Linux  ubuntu
         开发前准备：
         git   
         命令行：sudo apt-get install git
