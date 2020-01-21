@@ -1,5 +1,7 @@
-一个学习skynet的demo，不知道能不能坚持下去，先放着？
+一个学习skynet的demo，不知道能不能坚持下去，先放着看看那？emmmm
+       
 一、安装并启动skynet：
+
         开发环境：Linux  centos
         开发前准备：
         git   
